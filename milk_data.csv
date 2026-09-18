@@ -1,0 +1,17 @@
+age,breed,milk,feed,water
+3,Jersey,10,7,25
+4,Jersey,12,8,30
+5,Jersey,14,9,32
+6,Jersey,11,8,28
+3,Holstein,15,9,35
+4,Holstein,17,10,38
+5,Holstein,18,11,40
+6,Holstein,16,10,36
+3,Sahiwal,8,6,22
+4,Sahiwal,10,7,25
+5,Sahiwal,11,8,27
+6,Sahiwal,9,7,24
+4,Jersey,13,8,31
+5,Jersey,15,9,33
+4,Sahiwal,10,7,26
+5,Holstein,19,11,42
